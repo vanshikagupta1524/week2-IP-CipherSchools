@@ -1,0 +1,15 @@
+.cards-container{
+    width:100%;
+    height:auto;
+    display: flex;
+    flex-direction: row;
+    background: rgb(13,14,15);
+    flex-wrap:wrap;
+    justify-content: baseline;
+    align-items: center;
+}
+.card{|
+    width:60px;
+    height:auto;
+    padding:auto;
+}

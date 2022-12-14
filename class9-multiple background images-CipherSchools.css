@@ -1,0 +1,16 @@
+article{
+    background-color: rgb(red, green, blue);
+    width: 70%;
+    border-radius: 8px;
+    padding:0;
+    position: relative;
+    top: auto;
+    left: auto;
+    color: aliceblue;
+}
+article h1{
+    font-size: 8px;
+}
+article h2{
+    font-size:10px;
+}

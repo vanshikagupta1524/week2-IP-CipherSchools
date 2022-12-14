@@ -1,0 +1,12 @@
+p{
+    color:blue;
+    background-color: bisque;
+    width:20px;
+    width:50rem;
+    margin:0;
+    list-style: none;
+}
+h1,h2,h3,h4{
+    color:blue;
+    background-color: bisque;
+}

@@ -1,0 +1,10 @@
+header>p{
+    background-color: cornflowerblue;
+}
+header+p{
+    font-style: italic;
+}
+header ~ p{
+    background-color: darkgoldenrod;
+    color:darkmagenta;
+}

@@ -1,0 +1,9 @@
+.accordion .panel .box{
+    display:none;
+}
+.accordion.panel input:checked~label{
+    color:purple;
+}
+.accordion.pane. input{
+    display: inline;
+}
